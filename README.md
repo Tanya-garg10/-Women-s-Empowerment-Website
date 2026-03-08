@@ -170,6 +170,4 @@ This project is open source and available under the MIT License.
 
 For questions or suggestions, please open an issue on GitHub.
 
----
-
 Made with 💜 to celebrate and empower women everywhere
